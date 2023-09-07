@@ -1,3 +1,4 @@
+python-3.7.9
 numpy
 pdfplumber==0.5.28
 PyMuPDF==1.18.19
