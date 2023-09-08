@@ -1,4 +1,3 @@
-
 wheel
 numpy
 pdfplumber
@@ -7,7 +6,6 @@ pandas
 openpyxl
 PyPDF2
 googletrans
-tk
 Flask
 docx2pdf
 python-docx
@@ -15,4 +13,3 @@ nltk
 transformers
 streamlit
 tqdm
-concurrent.futures; python_version == "2.7"
