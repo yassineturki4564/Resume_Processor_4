@@ -544,7 +544,7 @@ def main():
         else:
             st.write("The uploaded data is being processed...")
 
-    st.write("Thank you for using the Resume Processor.")
+    st.write("In the event of a network error, please refresh the page.")
 
 if __name__ == "__main__":
     main()
